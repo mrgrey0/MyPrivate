@@ -1,0 +1,35 @@
+Stands for Cascading style stylesheet and is used to apply styling to the HTML's design
+it can be of three types : inlie, internal, external
+
+SELECTORS :
+Element selector is when you mention the name of the HTML element/tag eg. H1 { }
+Group seletor is when you use selectors with a comma ( h1,h2 { } )
+class selector is when use a clasname to apply  css. defined with a dot ( .classname )
+id selector is when a ID is used to apply css and is deonoted using a # ( #idName )
+
+THree types
+
+inline - apply in the curresponding tag using style attribute
+
+internal 
+    - Use <style> tag inside <head> tag
+Selectors : Element Selector, Class, ID,2 Universal
+
+external
+    - Use another file with .css extension and link it with the html using <link rel="stylesheet" href="filename.css">
+
+DIV : Division. Always starts with new line. Captures the entire width of the document
+SPAN : Only aquires the required space in the document.
+
+# Dsiplay flex is needed before using center etc
+# justify content works in horizontal mode 
+# align works in vertical mode
+
+CSS BOX MODEL : 
+
+1]  COntent
+2]  Border
+3]  Margin
+4]  Padding
+
+## 96px - 1 inch

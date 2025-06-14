@@ -1,0 +1,28 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+.container {
+    background-color: lightblue;
+    color : green;
+}
+.AllCont{
+    display: flex;
+    justify-content: space-around;
+}
+
+.div{
+    color: red;
+    background-color: Blue;
+    height :100px;
+    width: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#div4{
+    background-color: yellow;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
